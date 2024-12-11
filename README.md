@@ -94,7 +94,7 @@ Since the backend is not deployed, you need to run it locally using the setup in
 ---
 
 ## Live Demo
-- **Frontend (Netlify)**: [Your Netlify URL](https://your-netlify-url.netlify.app)
+- **Frontend (Netlify)**: [Your Netlify URL](https://personal-blog592.netlify.app)
 - **Backend**: Run locally on `http://localhost:5000`
 
 ---
